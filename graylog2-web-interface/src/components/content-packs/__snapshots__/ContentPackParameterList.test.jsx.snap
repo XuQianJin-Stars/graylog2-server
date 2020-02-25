@@ -437,7 +437,7 @@ exports[`<ContentPackParameterList /> should render with empty parameters withou
               "componentStyle": ComponentStyle {
                 "componentId": "Modal-nuree8-0",
                 "isStatic": false,
-                "lastClassName": "cHlGak",
+                "lastClassName": "bmCcvm",
                 "rules": Array [
                   [Function],
                 ],
@@ -462,7 +462,7 @@ exports[`<ContentPackParameterList /> should render with empty parameters withou
             backdrop="static"
             bsClass="modal"
             bsSize="large"
-            className="Modal-nuree8-0 cHlGak"
+            className="Modal-nuree8-0 bmCcvm"
             dialogComponentClass={[Function]}
             enforceFocus={true}
             keyboard={true}
@@ -1422,7 +1422,7 @@ exports[`<ContentPackParameterList /> should render with parameters without read
               "componentStyle": ComponentStyle {
                 "componentId": "Modal-nuree8-0",
                 "isStatic": false,
-                "lastClassName": "cHlGak",
+                "lastClassName": "bmCcvm",
                 "rules": Array [
                   [Function],
                 ],
@@ -1447,7 +1447,7 @@ exports[`<ContentPackParameterList /> should render with parameters without read
             backdrop="static"
             bsClass="modal"
             bsSize="large"
-            className="Modal-nuree8-0 cHlGak"
+            className="Modal-nuree8-0 bmCcvm"
             dialogComponentClass={[Function]}
             enforceFocus={true}
             keyboard={true}
@@ -2155,7 +2155,7 @@ exports[`<ContentPackParameterList /> should render with parameters without read
                                       "componentStyle": ComponentStyle {
                                         "componentId": "Modal-nuree8-0",
                                         "isStatic": false,
-                                        "lastClassName": "cHlGak",
+                                        "lastClassName": "bmCcvm",
                                         "rules": Array [
                                           [Function],
                                         ],
@@ -2180,7 +2180,7 @@ exports[`<ContentPackParameterList /> should render with parameters without read
                                     backdrop="static"
                                     bsClass="modal"
                                     bsSize="large"
-                                    className="Modal-nuree8-0 cHlGak"
+                                    className="Modal-nuree8-0 bmCcvm"
                                     dialogComponentClass={[Function]}
                                     enforceFocus={true}
                                     keyboard={true}
