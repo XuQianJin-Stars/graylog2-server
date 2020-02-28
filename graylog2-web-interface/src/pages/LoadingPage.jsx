@@ -34,7 +34,7 @@ class LoadingPage extends React.Component {
         <LoginBox>
           <legend><Icon name="group" /> Welcome to Graylog</legend>
           <p className="loading-text">
-            <Spinner text={text} />
+            <Spinner text={text} delay={0} />
           </p>
         </LoginBox>
       </DocumentTitle>
